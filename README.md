@@ -66,7 +66,7 @@
 
 AI Advisors provides an AI marketing SaaS platform that helps mid‑market B2B teams track, optimize, and grow brand visibility across AI search engines such as ChatGPT, Gemini, Perplexity, Claude, and Grok. Founded by Kevin O'Connell, the platform offers modules like AI Analytics, Answer Engine Insights, and AI Ads, delivering actionable intelligence for marketers to lead in AI search. It integrates with tools like Google Ads, WordPress, and Slack, and offers a suite of AI‑driven marketing tools and a public llms.txt generator.
 
-**Areas:** AI · Marketing · SaaS · Analytics · Advertising · Company
+**Areas:** Artificial Intelligence · Marketing · Software-as-a-Service · Analytics · Advertising · Company
 
 ## AI Advisors on APIs.io
 
@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Ai Advisors Ai Domain Security](https://apis.io/security/ai-advisors-ai/ai-advisors-ai-domain-security/)
+- [AI Advisors Domain Security](https://apis.io/security/ai-advisors-ai/ai-advisors-ai-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Ai Advisors Ai Plans Pricing](https://apis.io/plans/ai-advisors-ai/ai-advisors-ai-plans-pricing/)
+- [AI Advisors Plans Pricing](https://apis.io/plans/ai-advisors-ai/ai-advisors-ai-plans-pricing/)
 
 ## Where to find this API
 
@@ -103,18 +103,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.5** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 21.5** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 5.3 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 16.7 |
-| Access clarity | 60.0 |
+| Access clarity | 66.0 |
 
-**Agent readiness 6.0** — agent-aware
+**Agent readiness 3.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -129,7 +129,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -139,8 +139,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ai-advisors-ai/](https://apis.io/providers/ai-advisors-ai/).
 
